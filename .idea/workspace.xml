@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="999a2045-7db7-4987-b989-8cdc97dc2868" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/calculator.js" afterPath="$PROJECT_DIR$/js/calculator.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,7 +65,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="232" />
+    <option name="x" value="174" />
     <option name="y" value="23" />
     <option name="width" value="1176" />
     <option name="height" value="703" />
@@ -144,15 +142,15 @@
       <option name="presentableId" value="Default" />
       <updated>1522380961361</updated>
       <workItem from="1522380962576" duration="878000" />
-      <workItem from="1522381882283" duration="486000" />
+      <workItem from="1522381882283" duration="803000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1364000" />
+    <option name="totallyTimeSpent" value="1681000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="232" y="23" width="1176" height="703" extended-state="0" />
+    <frame x="174" y="23" width="1176" height="703" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25396827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
